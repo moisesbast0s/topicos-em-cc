@@ -24,7 +24,6 @@ O jogo é um Platformer 2D Side-Scroller com fortes elementos de Metroidvania.
 
 ## ✨ Características
 * **Ambientação Histórica:** Cenários inspirados na arquitetura real da Fortaleza (tijolos de pedra, grades de ferro, canhões).
-* **Atmosfera Progressiva:** O jogo começa **claustrofóbico e escuro** (masmorras) e evolui para ambientes **abertos e iluminados** (pátios internos e muralhas).
 * **Dificuldade Crescente:** Inicia apenas com pulos (tutorial), introduz combate e finaliza com um desafio de Chefe.
 * **Sistema de Vida:** O jogador possui uma **barra de HP** e o jogo reinicia no último ponto de controle (**checkpoint**) ao morrer.
 
